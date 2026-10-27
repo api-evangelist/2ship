@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-2Ship is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://2ship.com/
+2Ship provides shipping software solutions for businesses of all sizes, offering a platform that integrates carrier services, logistics management, and advanced shipping features. Their offerings include packages and pricing plans for small businesses, corporate mailrooms, 3PL providers, and freight forwarders, as well as APIs, ODBC, and embed options for developers to integrate shipping capabilities directly into their applications.
+
+**Areas:** Company · Shipping · Logistics · Software · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://2ship.com/)
+- [Documentation](https://www.2ship.com/integration/developers/)
+- [Getting started](https://www.2ship.com/small-business/create-free-account/)
+- [API reference](https://www.2ship.com/integration/developers/)
+- [Pricing](https://www.2ship.com/small-business/singup-and-pay-as-you-go/)
+- [Support](https://www.2ship.com/resources/support/)
+- [Blog](https://www.2ship.com/resources/blogs/)
+- [Terms of service](https://www.2ship.com/terms-and-conditions/)
+- [Privacy policy](https://www.2ship.com/privacy-policy-2/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/2ship/](https://apis.io/providers/2ship/).
